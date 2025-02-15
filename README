@@ -1,0 +1,20 @@
+## Functional Requirements
+
+The hardware we are using was actually iPhone hardware (iPhone 15 Pro Max) 
+The company wants to invest in owning their own infrastructure.
+There is a concern about cost and privacy.
+
+They want to invest in an AI phone and cut cost and be able to issue phones to the students 
+making use much more feasible in Madrid, Spain. 
+
+##Assumptions
+We are assuming that the technology within phones will advance rapidly and AI will be able 
+to run super fast and effictively. This saves a ton of cost and allows us to prepare 
+for the future. 
+
+These are Open-Source LLMS and can function on a single server in our office location 
+which will be enough bandwidth to serve 300 students. 
+
+##Data Strategy
+There is a concern about copyright materials. So we must purchase and supply 
+materials and store them in our vector database. 
